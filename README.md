@@ -1,5 +1,7 @@
 # WeatherAPP
 Simple weather app. UIKIT, Combine, Snapkit
+
+___
 MVVM
 Parsing JSON
 
